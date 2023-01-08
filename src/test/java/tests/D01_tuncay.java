@@ -9,7 +9,5 @@ public class D01_tuncay {
     public void test01(){
         Driver.getDriver().get("httpps://www.amazon.com");
 
-
-
     }
 }
